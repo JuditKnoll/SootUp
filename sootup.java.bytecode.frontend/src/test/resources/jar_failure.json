@@ -1,0 +1,8 @@
+[
+{
+  "jar_name": "jtransc-core-0.6.8.jar",
+  "exception": "Failed to apply sootup.interceptors.LocalSplitter@3fa25aac to <com.jtransc.backend.asm1.BasicBlockBuilder: com.jtransc.backend.asm1.BasicBlock call(com.jtransc.org.objectweb.asm.tree.AbstractInsnNode,com.jtransc.backend.asm1.BasicBlock$Frame)>",
+  "download_url": "https://repo1.maven.org/maven2/com/jtransc/jtransc-core/0.6.8/jtransc-core-0.6.8.jar",
+  "failedMethodSignature": "<com.jtransc.backend.asm1.BasicBlockBuilder: com.jtransc.backend.asm1.BasicBlock call(com.jtransc.org.objectweb.asm.tree.AbstractInsnNode,com.jtransc.backend.asm1.BasicBlock$Frame)>"
+}
+]
