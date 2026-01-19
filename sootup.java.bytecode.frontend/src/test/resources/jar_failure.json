@@ -1,0 +1,8 @@
+[
+{
+  "jar_name": "scalaz-metrics_2.11-0.0.1.jar",
+  "exception": "Failed to convert <zio.metrics.VoidZ$: boolean equals$extension(scala.runtime.BoxedUnit,java.lang.Object)>",
+  "download_url": "https://repo1.maven.org/maven2/dev/zio/scalaz-metrics_2.11/0.0.1/scalaz-metrics_2.11-0.0.1.jar",
+  "failedMethodSignature": "<zio.metrics.VoidZ$: boolean equals$extension(scala.runtime.BoxedUnit,java.lang.Object)>"
+}
+]
