@@ -1,0 +1,8 @@
+[
+{
+  "jar_name": "azure-spring-boot-starter-storage-4.0.0.jar",
+  "exception": "java.lang.RuntimeException: Could not open file system of /tmp/tempDir11393705341363569567/azure-spring-boot-starter-storage-4.0.0.jar",
+  "download_url": "https://repo1.maven.org/maven2/com/azure/spring/azure-spring-boot-starter-storage/4.0.0/azure-spring-boot-starter-storage-4.0.0.jar",
+  "failedMethodSignature": ""
+}
+]
